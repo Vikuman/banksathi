@@ -1,4 +1,4 @@
-# Starting the Project!
+﻿# Starting the Project!
 
 Install all the dependencies
 `pip install requirements.txt`
